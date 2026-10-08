@@ -1,13 +1,13 @@
-## My old github tag
+### Grinding right now:
+[leetcode 650+ problems](https://leetcode.com/u/ImmConCon/)  
+[MIT OCW design and analysis of algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)  
+
+### Grind in the past:
+League of Legends: Diamond 1 EUW (top 2%)  
+[MIT OCW intro to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)  
+
+### My old github username:
 @ImmemorConsultrixContrarie
-
-## Grinding right now:
-https://leetcode.com/u/ImmConCon/
-https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
-
-## Grind in the past:
-Diamond 1 EUW (top 2%) in league of legends (never again, lol)
-https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
 
 <!--
 **immconcon/immconcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
